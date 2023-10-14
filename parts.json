@@ -1,0 +1,49 @@
+{
+  "JsonReqParts": [
+    {
+      "MainPart": "zaciskHamulcowy_1",
+      "AditionalParts": "zaciskHamulcowy_tloczek_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "tlok_1",
+      "AditionalParts": "tlok_1_pierscienie_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "wahaczDol_double",
+      "AditionalParts": "tuleja_1,tuleja_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "wahaczDolny_1",
+      "AditionalParts": "tuleja_1,tuleja_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "wahaczTyl_2",
+      "AditionalParts": "tulejaMala_1,tulejaMala_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "amortyzator_double",
+      "AditionalParts": "sprezynnaPrzod_1,czapkaAmorPrzod_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "wahaczKrotkiTyl_1",
+      "AditionalParts": "tuleja_1,tulejaMala_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "amortyzatorPrzod_1",
+      "AditionalParts": "sprezynnaPrzod_1,czapkaAmorPrzod_1",
+      "Enabled": true
+    },
+    {
+      "MainPart": "wentylatorChlodnicy_2",
+      "AditionalParts": "wentylatorChlodnicy_2_fan_1,wentylatorChlodnicy_2_fan_2",
+      "Enabled": true
+    }
+  ]
+}

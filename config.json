@@ -1,0 +1,16 @@
+{
+  "NormalKeybind": "B",
+  "TuningKeybind": "N",
+  "EnableAutoPartUpgradeKeybind": "Insert",
+  "FuncitonModeChangeKeybind": "PageUp",
+  "FunctionModeKeybind": "PageDown",
+  "CheatModeChangeKeybind": "Home",
+  "CheatModeKeybind": "End",
+  "EnabledNormal": true,
+  "EnabledTuning": true,
+  "EnabledCheatMode": true,
+  "PricePercentage": 100,
+  "KeybindPartFixedScrap": 60,
+  "EnabledAutoBuyRequiredParts": true,
+  "ConfigVersion": 1.05
+}
